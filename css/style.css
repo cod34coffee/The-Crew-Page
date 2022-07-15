@@ -1,0 +1,32 @@
+.top{
+    margin-left: 10%;
+    margin-top: 5%;
+}
+.image2{
+    margin-top: 10%;
+}
+.imgclass, .imgclass2{
+    margin-top: 10%;
+}
+.section1{
+    margin-left: 10%;
+    margin-right: 10%;
+    padding-top: 5%;
+    padding-left: 5%;
+    padding-right: 5%;
+    background-color: white;
+    border-left: 3px solid black;
+    border-right: 3px solid black;
+}
+body{
+    background-color: rgba(0, 0, 0, 0.733);
+}
+.base{
+    padding-top: 5%;
+}
+.titlen{
+    border-top: .5px solid black;
+}
+.titleh{
+    font-family: 'Barlow Condensed', sans-serif;
+}
